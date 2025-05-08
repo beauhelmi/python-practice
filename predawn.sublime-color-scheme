@@ -1,0 +1,20 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+    "variables":
+    {
+    },
+    "globals":
+    {
+    },
+    "rules":
+    [
+        {
+      "scope": "keyword.control.import.python",
+      "foreground": "#FF79C6",  // bright pink for import
+      "font_style": "bold"
+    },
+    {
+      "scope": "support.module.python",
+      "foreground": "#8BE9FD"   // light blue for sys or other modules
+    }    ]
+}
