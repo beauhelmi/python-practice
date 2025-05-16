@@ -31,7 +31,7 @@ def main():
         if winner == "user":
             user_score += 1
         elif winner == "computer":
-            computer_score += 1
+            computer_score += 1hg
 
         # Show current user score
         print(f"Your score is now {user_score}")
